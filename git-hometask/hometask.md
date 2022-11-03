@@ -2,6 +2,7 @@
 
 ## What needs to be done  
  – on the previous lecture you have cloned a repository to check your setup: auto-bootcamp-setup  
+ – pull most recent changes to update your project
  – create a branch in this repository  
   	– name branch with your name and surname (e.g. andrejs-zelezovs)  
 – create a folder inside `git-hometask` folder  
