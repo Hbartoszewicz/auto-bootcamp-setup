@@ -4,7 +4,7 @@ Daria Kowal
 
 # Favourite movie
 
-My fvourite movie is 'Where is Nemo'. I like this movie because I like animals and happy endings.
+My favourite movie is 'Where is Nemo'. I like this movie because I like animals and happy endings.
 
 # My skills after completing bootcamp
 
