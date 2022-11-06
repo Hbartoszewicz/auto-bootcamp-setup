@@ -2,7 +2,7 @@
 >*My name is Ruslan Slepuhin*
 
 ### 2. Chapter two. My favorite film 
->*My favorite film is Shutter Island.*
+>*My favorite film is the Shutter Island.*
 >*Everything is not what it seems at once. And often you have to make unpopular decisions.*
 
 ##### 23 Chapter three. After the bootcamp
