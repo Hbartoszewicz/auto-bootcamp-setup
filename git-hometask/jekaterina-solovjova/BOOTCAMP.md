@@ -8,7 +8,7 @@ ___
 
 > “If you wish to discover the guilty person, first find out to whom the crime might be useful.”  ― Alexandre Dumas, The Count of Monte Cristo
 
-<img height="600" src="../../../../../OneDrive/Desktop/i641889.jpg" width="500"/>
+<img height="600" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611834134l/7126.jpg" width="500"/>
 
 It's an adventure novel written by French author Alexandre Dumas completed in 1844.
 
