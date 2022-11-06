@@ -1,5 +1,3 @@
-1. Chapter one
-2. 
 # **1. Chapter one**. My name
 >*My name is Ruslan Slepuhin*
 
@@ -7,5 +5,5 @@
 >*My favorite film is Shutter Island.*
 >*Everything is not what it seems at once. And often you have to make unpopular decisions.*
 
-##### 2. Chapter three. After the bootcamp
+##### 23 Chapter three. After the bootcamp
 >*After the bootcamp, I will know the methods and approaches to code testing, which will allow me to be effective for Evolution*
