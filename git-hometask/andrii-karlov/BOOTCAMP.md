@@ -1,14 +1,16 @@
 # About me  
 
----
-
 #### Name and Surename  
 
 My name is Andrii Karlov.  
 
+___
+
 ####  Favourite book/album/movie  
 
 I don't have any favorite movies or books, every story has something interesting in it. I like to learn new stories, they add bright colors to life.  
+
+___
 
 #### Expected skills after the course  
 
