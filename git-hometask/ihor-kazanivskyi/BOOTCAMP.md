@@ -1,4 +1,4 @@
-## FirstName LastName
+## First name Last name
 Ihor Kazanivskyi
 
 ## Favorite movie
